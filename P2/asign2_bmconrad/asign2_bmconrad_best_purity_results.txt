@@ -1,0 +1,18 @@
+Author: Blake Conrad
+Purpose: HW2 Best Purity Score After 10 Iteratons with Random Centroids
+
+Purity:  0.886666666667
+Purity:  0.893333333333
+Purity:  0.893333333333
+Purity:  0.84
+Purity:  0.886666666667
+Purity:  0.886666666667
+Purity:  0.893333333333
+Purity:  0.886666666667
+Purity:  0.886666666667
+Purity:  0.886666666667
+Purity:  0.886666666667
+
+After 10 iterations
+
+Best Purity Score: 0.893333333333
